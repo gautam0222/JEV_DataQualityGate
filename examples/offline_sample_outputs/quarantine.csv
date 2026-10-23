@@ -1,0 +1,5 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,quality_flags,is_cancellation,is_exact_duplicate_repeat,parsed_invoice_date,net_line_value,is_hard_invalid
+536378,84997B,CHILDRENS CUTLERY RETROSPOT,4,not-a-date,4.15,17850,United Kingdom,invalid_invoice_date,False,False,,16.6,True
+536379,22114,HOT WATER BOTTLE TEA AND SYMPATHY,-2,2010-12-01 09:45:00,3.95,17850,United Kingdom,nonpositive_quantity_non_cancellation,False,False,2010-12-01 09:45:00,-7.9,True
+536380,,JUMBO BAG RED RETROSPOT,5,2010-12-01 10:00:00,1.95,17850,United Kingdom,missing_stock_code,False,False,2010-12-01 10:00:00,9.75,True
+,85123A,WHITE HANGING HEART T-LIGHT HOLDER,2,2010-12-01 10:15:00,2.55,17850,United Kingdom,missing_invoice_no,False,False,2010-12-01 10:15:00,5.1,True

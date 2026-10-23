@@ -1,0 +1,2 @@
+decision_source,model,primary_issue,issue_confidence,safe_to_promote_probability,severity_label,action,input_rows,quarantined_rows,clean_remainder_rows
+OFFLINE_RULES_NOT_JEV,offline-demo-rules,missing_critical_key,,,Critical,HOLD_BATCH_FOR_REVIEW,24,4,20

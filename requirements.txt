@@ -1,0 +1,6 @@
+# Compatibility file for pip users. The canonical dependency declaration is
+# pyproject.toml; uv users should run `uv sync`.
+pandas>=2.1,<3.0
+openpyxl>=3.1,<4.0
+typesafe-sdk>=0.7.1,<1.0
+pytest>=8.0,<9.0
